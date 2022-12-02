@@ -8,8 +8,6 @@ body {
     height: 50px;
     width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    position: absolute;
-    left: 0%;
 }
 
 .header {
@@ -23,7 +21,22 @@ body {
 
 p {
     display: inline-block;
-    width: 10%;
+    width: 7%;
     text-align: center;
 
+}
+
+#about {
+    position: relative;
+    left: 75%;
+}
+
+#port {
+    position: relative;
+    left: 75%;
+}
+
+#cont {
+    position: relative;
+    left: 75%;
 }
