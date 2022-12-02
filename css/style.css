@@ -1,0 +1,34 @@
+body {
+    background-color: #D8D2CB;
+    margin: 0;
+}
+
+.top-container {
+    background-color: #EEEEEE;
+    height: 200px;
+    padding: 20px;
+}
+
+.name {
+    margin-top: 0;
+}
+
+.middle-container {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-container {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
+
+span:hover {
+    display: inline;
+}
+
+span {
+    display: none;
+}
