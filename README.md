@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="uft-8">
@@ -31,7 +31,7 @@
     <hr>
         <div class="portfolio">
             <h1><a id="portfolio"></a>PORTFOLIO</h1>
-            <a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/moecke/albums/72157663439939066" title="Portfolio"><img src="https://live.staticflickr.com/4430/36442196215_a7760026ec.jpg" width="500" height="375" alt="Portfolio"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+            <a data-flickr-embed="true" href="https://www.flickr.com/photos/moecke/albums/72157663439939066" title="Portfolio"><img src="https://live.staticflickr.com/4430/36442196215_a7760026ec.jpg" width="500" height="375" alt="Portfolio"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         </div>
     <hr>
         <div class="contact-me">
