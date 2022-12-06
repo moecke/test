@@ -8,7 +8,7 @@
 
     <body>
         <div class="top-menu">
-            <p>about me</p><p>portfolio</p><p>contact</p>
+            <p id="about">about me</p><p id="port">portfolio</p><p id="cont">contact</p>
         </div>
 
         <div class="header">
